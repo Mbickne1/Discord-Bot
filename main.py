@@ -1,3 +1,3 @@
-import client
+import bot
 
-client.run()
+bot.start()
